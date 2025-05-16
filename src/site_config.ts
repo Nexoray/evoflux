@@ -1,6 +1,6 @@
 export const SiteConfig: SiteConfig = {
-  site: "https://foo.com/",
-  title: "Hsu's Blog!",
+  site: "https://evoflux.top/",
+  title: "Nexoray's Blog!",
   description: "这是一个个人博客",
   localSearch: true,
   markdownMath: false,
